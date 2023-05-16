@@ -18,7 +18,7 @@ public class EyeFollow : MonoBehaviour
         {
             Vector3 direction = playerHead.transform.position - transform.position;
             Quaternion targetRotation = Quaternion.LookRotation(direction);
-            targetRotation *= Quaternion.Euler(0, 180, 0); // Add this line
+            //targetRotation *= Quaternion.Euler(0, 180, 0); // Add this line
             Quaternion limitedRotation = Quaternion.RotateTowards(initialRotation, targetRotation, eyeRotationLimit);
             transform.rotation = limitedRotation;
         }

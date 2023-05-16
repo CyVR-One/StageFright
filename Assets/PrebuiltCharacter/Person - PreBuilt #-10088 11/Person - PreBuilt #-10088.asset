@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5f93af6d834ecc44bce45cb26fa47f4, type: 3}
+  m_Name: Person - PreBuilt #-10088
+  m_EditorClassIdentifier: 
+  settings: {fileID: 11400000, guid: 1c66d9c5fe58cb84b95393756a971cf6, type: 2}
+  preBuiltDatas:
+  - GroupName: Baked
+    meshes:
+    - {fileID: 4300000, guid: 41164a287c57a764eb974c761c8d09d9, type: 2}
+    - {fileID: 4300000, guid: 9962614486e698b4b8dfa7a0f645cb26, type: 2}
+    - {fileID: 4300000, guid: b9c0d2f2f9e75bf45821ebba1a7a6395, type: 2}
+    materials:
+    - {fileID: 2100000, guid: 3933b71cd6857c7489937a317b8ab3c9, type: 2}
+    - {fileID: 2100000, guid: dd005d4280bd5aa49bcb6f06aab25f34, type: 2}
+  blendshapes:
+  - name: Fat
+    weight: 74.97531
+  - name: Slimness
+    weight: 19.797981
+  - name: Neck_Width
+    weight: 0
+  - name: Ear_Size
+    weight: 36.26691
+  - name: Ear_Angle
+    weight: 59.652847
+  - name: Jaw_Width
+    weight: 4.9124956
+  - name: Jaw_Offset
+    weight: -45.706764
+  - name: Jaw_Shift
+    weight: 0
+  - name: Cheek_Size
+    weight: 7.372897
+  - name: Chin_Offset
+    weight: 1.7692671
+  - name: Eye_Width
+    weight: -24.174248
+  - name: Eye_Form
+    weight: 84.01597
+  - name: Eye_InnerCorner
+    weight: 0
+  - name: Eye_Corner
+    weight: 0
+  - name: Eye_Rotation
+    weight: 0
+  - name: Eye_Offset
+    weight: 1.3777671
+  - name: Eye_OffsetH
+    weight: 0
+  - name: Eye_ScaleX
+    weight: 66.979454
+  - name: Eye_ScaleY
+    weight: 21.851467
+  - name: Eye_Size
+    weight: -1.467947
+  - name: Eye_Close
+    weight: 0
+  - name: Eye_Height
+    weight: -4.21451
+  - name: Brow_Height
+    weight: 0
+  - name: Brow_Shape
+    weight: 6.6055117
+  - name: Brow_Thickness
+    weight: -8.842114
+  - name: Brow_Length
+    weight: 20.295238
+  - name: Nose_Length
+    weight: 0
+  - name: Nose_Size
+    weight: 9.941143
+  - name: Nose_Angle
+    weight: 0
+  - name: Nose_Offset
+    weight: 14.856741
+  - name: Nose_Bridge
+    weight: 0
+  - name: Nose_Hump
+    weight: 0
+  - name: Mouth_Offset
+    weight: 5.508587
+  - name: Mouth_Width
+    weight: -31.151535
+  - name: Mouth_Size
+    weight: 17.684284
+  - name: Mouth_Open
+    weight: 0
+  - name: Mouth_Bulging
+    weight: 0
+  - name: LipsCorners_Offset
+    weight: 0
+  - name: Face_Form
+    weight: 14.662444
+  - name: Chin_Width
+    weight: 0
+  - name: Chin_Form
+    weight: 24.306763
+  - name: Head_Offset
+    weight: 1.5987458
+  - name: Smile
+    weight: 0
+  - name: Sadness
+    weight: 0
+  - name: Surprise
+    weight: 0
+  - name: Thoughtful
+    weight: 0
+  - name: Angry
+    weight: 0
+  - name: BackpackOffset
+    weight: 100
+  - name: BreastSize
+    weight: 11.552324

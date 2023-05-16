@@ -1,0 +1,349 @@
+﻿{
+    "settingsName": "MaleSettings",
+    "selectedElements": {
+        "Hair": -1,
+        "Beard": 6,
+        "Hat": 2,
+        "Shirt": 9,
+        "Pants": 7,
+        "Shoes": 9,
+        "Accessory": 1,
+        "Item1": -1
+    },
+    "blendshapes": [
+        {
+            "blendshapeName": "Fat",
+            "type": 0,
+            "group": 0,
+            "value": 91.5461654663086
+        },
+        {
+            "blendshapeName": "Muscles",
+            "type": 1,
+            "group": 0,
+            "value": 4.1020402908325199
+        },
+        {
+            "blendshapeName": "Thin",
+            "type": 3,
+            "group": 0,
+            "value": 19.588092803955079
+        },
+        {
+            "blendshapeName": "Neck_Width",
+            "type": 5,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Ear_Size",
+            "type": 6,
+            "group": 1,
+            "value": 24.070634841918947
+        },
+        {
+            "blendshapeName": "Ear_Angle",
+            "type": 7,
+            "group": 1,
+            "value": 15.735098838806153
+        },
+        {
+            "blendshapeName": "Jaw_Width",
+            "type": 8,
+            "group": 1,
+            "value": 75.78553009033203
+        },
+        {
+            "blendshapeName": "Jaw_Offset",
+            "type": 9,
+            "group": 1,
+            "value": -16.44310188293457
+        },
+        {
+            "blendshapeName": "Jaw_Shift",
+            "type": 10,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Cheek_Size",
+            "type": 11,
+            "group": 1,
+            "value": -35.30352020263672
+        },
+        {
+            "blendshapeName": "Chin_Offset",
+            "type": 12,
+            "group": 1,
+            "value": 14.611129760742188
+        },
+        {
+            "blendshapeName": "Eye_Width",
+            "type": 13,
+            "group": 1,
+            "value": 6.323974609375
+        },
+        {
+            "blendshapeName": "Eye_Form",
+            "type": 14,
+            "group": 1,
+            "value": 44.328697204589847
+        },
+        {
+            "blendshapeName": "Eye_InnerCorner",
+            "type": 15,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Eye_Corner",
+            "type": 16,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Eye_Rotation",
+            "type": 17,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Eye_Offset",
+            "type": 18,
+            "group": 1,
+            "value": 18.03873062133789
+        },
+        {
+            "blendshapeName": "Eye_OffsetH",
+            "type": 19,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Eye_ScaleX",
+            "type": 20,
+            "group": 1,
+            "value": 49.26987838745117
+        },
+        {
+            "blendshapeName": "Eye_ScaleY",
+            "type": 21,
+            "group": 1,
+            "value": 68.7875747680664
+        },
+        {
+            "blendshapeName": "Eye_Size",
+            "type": 22,
+            "group": 1,
+            "value": 22.611881256103517
+        },
+        {
+            "blendshapeName": "Eye_Close",
+            "type": 23,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Eye_Height",
+            "type": 24,
+            "group": 1,
+            "value": 25.387161254882814
+        },
+        {
+            "blendshapeName": "Brow_Height",
+            "type": 25,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Brow_Shape",
+            "type": 26,
+            "group": 1,
+            "value": -22.41046142578125
+        },
+        {
+            "blendshapeName": "Brow_Thickness",
+            "type": 27,
+            "group": 1,
+            "value": 7.987028121948242
+        },
+        {
+            "blendshapeName": "Brow_Length",
+            "type": 28,
+            "group": 1,
+            "value": 22.581296920776368
+        },
+        {
+            "blendshapeName": "Nose_Length",
+            "type": 29,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Nose_Size",
+            "type": 30,
+            "group": 1,
+            "value": 33.9130859375
+        },
+        {
+            "blendshapeName": "Nose_Angle",
+            "type": 31,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Nose_Offset",
+            "type": 32,
+            "group": 1,
+            "value": -26.50041389465332
+        },
+        {
+            "blendshapeName": "Nose_Bridge",
+            "type": 33,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Nose_Hump",
+            "type": 34,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Mouth_Offset",
+            "type": 35,
+            "group": 1,
+            "value": 18.5045223236084
+        },
+        {
+            "blendshapeName": "Mouth_Width",
+            "type": 36,
+            "group": 1,
+            "value": 19.543819427490236
+        },
+        {
+            "blendshapeName": "Mouth_Size",
+            "type": 37,
+            "group": 1,
+            "value": 9.887648582458496
+        },
+        {
+            "blendshapeName": "Mouth_Open",
+            "type": 38,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Mouth_Bulging",
+            "type": 39,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "LipsCorners_Offset",
+            "type": 40,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Face_Form",
+            "type": 41,
+            "group": 1,
+            "value": 24.168701171875
+        },
+        {
+            "blendshapeName": "Chin_Width",
+            "type": 42,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Chin_Form",
+            "type": 43,
+            "group": 1,
+            "value": -18.32364273071289
+        },
+        {
+            "blendshapeName": "Head_Offset",
+            "type": 44,
+            "group": 2,
+            "value": -4.250957012176514
+        },
+        {
+            "blendshapeName": "Smile",
+            "type": 45,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Sadness",
+            "type": 46,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Surprise",
+            "type": 47,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Thoughtful",
+            "type": 48,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "Angry",
+            "type": 49,
+            "group": 1,
+            "value": 0.0
+        },
+        {
+            "blendshapeName": "BackpackOffset",
+            "type": 50,
+            "group": 2,
+            "value": 100.0
+        }
+    ],
+    "MinLod": 0,
+    "MaxLod": 3,
+    "SkinColor": [
+        0.8684499263763428,
+        0.4965774416923523,
+        0.3741496205329895,
+        1.0
+    ],
+    "EyeColor": [
+        0.33791646361351015,
+        0.2700853645801544,
+        0.20224162936210633,
+        0.0
+    ],
+    "HairColor": [
+        0.25049805641174319,
+        0.18542663753032685,
+        0.3601555824279785,
+        0.0
+    ],
+    "UnderpantsColor": [
+        0.5660377740859985,
+        0.5660377740859985,
+        0.5660377740859985,
+        1.0
+    ],
+    "TeethColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        0.0
+    ],
+    "OralCavityColor": [
+        0.6901960968971252,
+        0.290196031332016,
+        0.3019607365131378,
+        0.0
+    ],
+    "Height": 0.023225190117955209,
+    "HeadSize": -0.01749398745596409
+}

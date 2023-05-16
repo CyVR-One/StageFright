@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1791df80794dbe34c9c32221453f908b, type: 3}
+  m_Name: Man1
+  m_EditorClassIdentifier: 
+  hair:
+    Min: 0
+    Max: 0
+  beard:
+    Min: 0
+    Max: 0
+  hat:
+    Min: 0
+    Max: 0
+  accessory:
+    Min: 0
+    Max: 0
+  shirt:
+    Min: 0
+    Max: 0
+  pants:
+    Min: 0
+    Max: 0
+  shoes:
+    Min: 0
+    Max: 0
+  skinColors:
+    minColors: []
+    maxColors: []
+  eyeColors:
+    minColors: []
+    maxColors: []
+  hairColors:
+    minColors: []
+    maxColors: []
+  headSize:
+    Min: 0
+    Max: 0
+  headOffset:
+    Min: 0
+    Max: 0
+  height:
+    Min: 0
+    Max: 0
+  fat:
+    Min: 0
+    Max: 0
+  muscles:
+    Min: 0
+    Max: 0
+  thin:
+    Min: 0
+    Max: 0
+  slimness:
+    Min: 0
+    Max: 0
+  breastSize:
+    Min: 0
+    Max: 0
+  facialBlendshapes: []
+  excludes: []

@@ -14,6 +14,8 @@ public class GazeBallInteraction : MonoBehaviour
     private Camera mainCamera;
     private RaycastHit hit;
 
+    private int hitCount = 0;
+
     private void Start()
     {
         mainCamera = Camera.main;
@@ -56,6 +58,8 @@ public class GazeBallInteraction : MonoBehaviour
             if (hit.collider.CompareTag("Ball"))
             {
                 Destroy(hit.collider.gameObject);
+                hitCount += 1;
+                Debug.Log("Number of looks made:"+ hitCount);
             }
         }
     }
